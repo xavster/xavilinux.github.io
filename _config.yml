@@ -21,10 +21,9 @@
 title: Xavi Linux
 email: knister96@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Javier Bertomeu
+  This is a blog created by Javier Bertomeu and where you can find writeups of cybersecurity CTFs, tutorials and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
 github_username:  xavster
 
 # Build settings
